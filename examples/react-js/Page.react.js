@@ -51,7 +51,7 @@ export default class NomComp extends Component {
 
   setCookie() {
     const {testCookie} = this.state;
-    Nom.set('testCookie', !testCookie, 1);
+    Nom.bake('testCookie', !testCookie, 1);
     this.setState({testCookie: !testCookie});
   }
 
