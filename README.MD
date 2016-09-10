@@ -54,3 +54,17 @@ if(testCookiePresent) {
 Nom.delete('test-cookie');
 
 ```
+
+
+## Contributing
+It doesn't matter if you're a veteran or not. Everyone brings something awesome to the party so please contribute.
+1. Fork it! <br/>
+2. Create your feature branch: `git checkout -b my-new-feature` <br/>
+3. Commit your changes: `git commit -am 'Add some feature'` <br/>
+4. Push to the branch: `git push origin my-new-feature` <br/>
+5. Submit a pull request :D <br/>
+
+## Credits
+Created and maintained by [@rorykermack](https://twitter.com/@rorykermack)
+## License
+[WTFPL](http://www.wtfpl.net/) (100% Open Source)
