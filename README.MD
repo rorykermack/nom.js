@@ -57,7 +57,7 @@ Nom.delete('test-cookie');
 
 
 ## Contributing
-It doesn't matter if you're a veteran or not. Everyone brings something awesome to the party so please contribute.
+It doesn't matter if you're a veteran or not. Everyone brings something awesome to the party so please contribute.<br/>
 1. Fork it! <br/>
 2. Create your feature branch: `git checkout -b my-new-feature` <br/>
 3. Commit your changes: `git commit -am 'Add some feature'` <br/>
