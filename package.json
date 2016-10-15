@@ -1,0 +1,23 @@
+{
+  "name": "nomjs",
+  "version": "0.0.1",
+  "description": "A Quick & Easy Cookie Helper Singleton",
+  "main": "nom.js",
+  "scripts": {
+    "test": "echo Error: no test specified && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rorykermack/nom.js"
+  },
+  "keywords": [
+    "react",
+    "storage",
+    "cookie"
+  ],
+  "author": "Rory Kermack",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rorykermack/nom.js/issues"
+  }
+}
